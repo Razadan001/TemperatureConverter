@@ -32,7 +32,6 @@ void TemperatureConverter()
     catch (Exception e)
     {
         Console.WriteLine(e.Message);
-        throw;
     }
     Console.WriteLine("Do you wish want to perform another Conversion? (yes/no): ");
     string respond = Console.ReadLine()!.ToLower();
