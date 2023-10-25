@@ -1,5 +1,4 @@
-﻿
-void TemperatureConverter()
+﻿void TemperatureConverter()
 {
     try
     {
