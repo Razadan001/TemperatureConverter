@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OYv4xg9RMlfjTWo3Cv6C4tb2UdB2eYrEQiB2Vb2h2oZQpZu84ccIbQr7GFXigLVH+c5GwCSQAkMH8NHN93MESA==",
+  "dgSpecHash": "TGMjZ5NjaaRFhToQ+VpKUfLwqDkX8ZVoGE761dsVGDzaMCE5urQwD5uhYNHutHyR2vYJGdigYfD4bXS8fgJSYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\C#_Projects\\TemperatureConverter\\TemperatureConverter.csproj",
+  "projectFilePath": "/workspaces/TemperatureConverterByRaza/TemperatureConverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
