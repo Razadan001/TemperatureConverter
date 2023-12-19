@@ -3,7 +3,7 @@ namespace TemperatureConverter
 {
     public class Converter
     {
-       public static void TemperatureConverter()
+        public static void TemperatureConverter()
 {
         Console.Write("Choose an option\n1. Convert from Celsius to Fahrenheit.\n2. Convert from Fahrenheit to Celsius\n3.Exit: ");
         int option = int.Parse(Console.ReadLine()!);
